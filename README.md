@@ -1,6 +1,6 @@
 # Apartment Management System
 
-The **Apartment Management System** is a standalone Desktop CRUD (Create, Read, Update, Delete) application developed in **Java** using the **NetBeans IDE**. It is designed to streamline and automate daily property operations for apartment owners, landlords, and property managers, replacing inefficient manual record-keeping with a secure, digital solution.
+The **Apartment Management System** is a standalone Desktop application developed in **Java** using the **NetBeans IDE**. It is designed to streamline and automate daily property operations for apartment owners, landlords, and property managers, replacing inefficient manual record-keeping with a secure, digital solution.
 
 ---
 
