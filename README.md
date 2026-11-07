@@ -3,7 +3,6 @@
 The **Apartment Management System** is a standalone Desktop application developed in **Java** using the **NetBeans IDE**. It is designed to streamline and automate daily property operations for apartment owners, landlords, and property managers, replacing inefficient manual record-keeping with a secure, digital solution.
 
 ---
-
 ## 🚀 Key Features
 * **User Authentication & Security:** Secure login portals for System Administrators and Tenants to ensure data privacy and authorized access.
 * **Tenant Record Management:** Full CRUD functionality to seamlessly register new tenants, edit profiles, track occupancy details, and manage active lease agreements.
