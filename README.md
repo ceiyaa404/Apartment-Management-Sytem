@@ -11,7 +11,7 @@ The **Apartment Management System** is a standalone Desktop application develope
 
 ---
 
-## 🛠️ Technical Architecture
+## 🛠️ Technology Used
 * **Programming Language:** Java
 * **Development Environment:** NetBeans IDE
 * **GUI Framework:** Java Swing / AWT
